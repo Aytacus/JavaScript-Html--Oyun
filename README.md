@@ -19,7 +19,7 @@ Proje Geliştricisi:
 
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/27afbfb6-75d1-4a80-8154-54a010d41a06)
 
-![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/1d287c20-3d7e-4d87-a716-a9c367cc7549)
+
 
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/e6f8c6a7-f0c6-44f9-aace-e419940a7be9)
 
