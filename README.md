@@ -1,7 +1,16 @@
 # JavaScript-Html- Oyun
  Web tabanlı oyun
  
- Projenin Özeti
+    Projenin Özeti:
+ Oyunun amacı toptan uzun bir süre kaçıp hayatta kalabilmek.Bunu yaparken de dikdörtgen alanının içinden çıkmamayı sağlamak.
+    Projeye Ulaşmak İçin:
+www.escapefromball.eu5.org
+linke tıkladığınız zaman oyun açılacak orada bilgilendirme kutucuğunu işaretlediğinizde oyun başlayacak. Oyun bittiğinde ise skorunuz gözükecek.
+    Proje HTML CSS ve JavaScript ile geliştirildi.(En önemlisi JavaScript ama HTML olmasa oyun çalışmazdı.)
+    Projeye eklemek İstediklerim:
+*Proje ileride daha da gelişecek eğer beğenilirse. Mesela arkaplan ve karakter çizimleri gibi şeyler ekleyeceğim.
+Proje Geliştricisi:
+    YÜCEL AYTAÇ AKGÜN
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/b888d46b-b89d-4df8-8473-16c3e6f44c99)
 
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/7360aad1-d5d5-4add-bd8c-bee1396eec25)
