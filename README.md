@@ -1,5 +1,7 @@
 # JavaScript-Html- Oyun
  Web tabanlı oyun
+ 
+ Projenin Özeti
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/b888d46b-b89d-4df8-8473-16c3e6f44c99)
 
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/7360aad1-d5d5-4add-bd8c-bee1396eec25)
