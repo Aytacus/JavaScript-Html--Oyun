@@ -11,6 +11,8 @@ linke tıkladığınız zaman oyun açılacak orada bilgilendirme kutucuğunu i�
 *Proje ileride daha da gelişecek eğer beğenilirse. Mesela arkaplan ve karakter çizimleri gibi şeyler ekleyeceğim.
 Proje Geliştricisi:
     YÜCEL AYTAÇ AKGÜN
+Oyun Gameplay ve Hakkında bilgi almak isterseniz:
+https://youtu.be/EqAv6gSSV-E
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/b888d46b-b89d-4df8-8473-16c3e6f44c99)
 
 ![resim](https://github.com/Aytacus/JavaScript-Html--Oyun/assets/92356087/7360aad1-d5d5-4add-bd8c-bee1396eec25)
