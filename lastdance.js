@@ -3,7 +3,7 @@ window.onload = function () {
     // Bu kisimda oyun baslamadan once bir aciklama yazdim. 
     alert("Oyunuma hoşgeldiniz!!!\nOyunun kuralları basit:\nKural1: Toptan kaçının sizi vurmasını engellemelisin.\n"+
     "Kural2: Sarı dikdörtgenin dışına çıkarsan oyunu kaybedersin.Kısacası alanda kalın.\nOyunu isterseniz ok yönleriyle oyna isterseniz w a s d tuşlarıyla oynayın.\nİyi Eğlenceler!!!\n Not: Mobile ve Safariye uyumlu degildir"+
-    "yna isterseniz w a s d tuşlarıyla oynayın.\nİyi Eğlenceler!!!\n  200 puanı gecerseniz gercekten çok iyi oyuncusunuz. ");
+    " \n200 puanı gecerseniz gercekten çok iyi oyuncusunuz. ");
     // Burada canvasi olusturdum ve canvasin icindeki nesneleri olusturmak icin de getContext metodunu kullandim.
     var canvason = document.getElementById("mylastdance");
     var nesne = canvason.getContext('2d');
